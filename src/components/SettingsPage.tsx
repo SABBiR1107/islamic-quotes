@@ -103,6 +103,9 @@ const SettingsPage: React.FC<SettingsPageProps> = ({
             <p>
               <strong>Translations:</strong> Muhammad Asad (English)
             </p>
+            <p>
+              <strong>Development:</strong> Ahsanur
+            </p>
             <p className="text-sm text-gray-500 mt-4">
               May Allah accept this humble effort and make it beneficial for all Muslims.
             </p>
